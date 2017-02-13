@@ -1,0 +1,11 @@
+<html>
+<body>
+<div align="center">
+<form method="link" action="http://www.hillspet.com/en/us/dog-breeds/samoyed">
+<input type="submit" value="Home Page" style= "width:90px; height:40px; background-color: darkwhite; border-color: black; ">
+<form method="link" action="http://www.hillspet.com/en/us/dog-breeds/samoyed">
+<input type="submit" value="homepage" style="width:150px; height:40px; background-color: darkwhite; border-color: black; ">
+<form method="link" action="http://www.hillspet.com/en/us/dog-breeds/samoyed">
+<input type="submit" value="drugss" style="width:130px; height:40px; background-color: darkwhite; border-color: black; ">
+</body>
+</html>
